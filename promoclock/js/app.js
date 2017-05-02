@@ -24,7 +24,7 @@ $(document).ready(function () {
             if (count === 0) {
                 clearInterval(counter);
                 var startBreak = setInterval(breakTimer, 1000);
-            }
+            }W
 
             //$('#num').html(count);
 

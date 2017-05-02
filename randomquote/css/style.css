@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: black;
+    background-size: 100%;
+    background-attachment: fixed;
+    color: white;
+    font-family: "Montsecret";
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+h3 {
+    display: inline;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+}
+
+button {
+    margin-bottom: 20px;
+}
+
+.quote {
+    font-family: fantasy;
+    background-color: beige;
+    color: black;
+    width: 33%;
+    margin-right: auto;
+    margin-left: auto;
+    border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 25px;
+    padding: 2px;
+    height: auto;
+}
+
+.author {
+    font-family: italic;
+}
