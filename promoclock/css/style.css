@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: black;
+    background-size: 100%;
+    background-attachment: fixed;
+    color: white;
+    font-family: "Montsecret";
+}
+
+h3 {
+  display: inline;
+    
+}
+
+#start {
+    margin: 10px;
+}
